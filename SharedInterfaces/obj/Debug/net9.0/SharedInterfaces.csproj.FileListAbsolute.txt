@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\OSS\SharedInterfaces\bin\Debug\net9.0\SharedInterfaces.deps.json
+C:\Users\HP\source\repos\OSS\SharedInterfaces\bin\Debug\net9.0\SharedInterfaces.dll
+C:\Users\HP\source\repos\OSS\SharedInterfaces\bin\Debug\net9.0\SharedInterfaces.pdb
+C:\Users\HP\source\repos\OSS\SharedInterfaces\obj\Debug\net9.0\SharedInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OSS\SharedInterfaces\obj\Debug\net9.0\SharedInterfaces.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OSS\SharedInterfaces\obj\Debug\net9.0\SharedInterfaces.AssemblyInfo.cs
+C:\Users\HP\source\repos\OSS\SharedInterfaces\obj\Debug\net9.0\SharedInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OSS\SharedInterfaces\obj\Debug\net9.0\SharedInterfaces.dll
+C:\Users\HP\source\repos\OSS\SharedInterfaces\obj\Debug\net9.0\refint\SharedInterfaces.dll
+C:\Users\HP\source\repos\OSS\SharedInterfaces\obj\Debug\net9.0\SharedInterfaces.pdb
+C:\Users\HP\source\repos\OSS\SharedInterfaces\obj\Debug\net9.0\ref\SharedInterfaces.dll
+C:\Users\HP\source\repos\OSS\SharedInterfaces\obj\Debug\net9.0\SharedInterfaces.sourcelink.json

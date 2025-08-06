@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\OSS\Shared\bin\Debug\net9.0\SharedServices.deps.json
+C:\Users\HP\source\repos\OSS\Shared\bin\Debug\net9.0\SharedServices.dll
+C:\Users\HP\source\repos\OSS\Shared\bin\Debug\net9.0\SharedServices.pdb
+C:\Users\HP\source\repos\OSS\Shared\bin\Debug\net9.0\SharedInterfaces.dll
+C:\Users\HP\source\repos\OSS\Shared\bin\Debug\net9.0\SharedInterfaces.pdb
+C:\Users\HP\source\repos\OSS\Shared\obj\Debug\net9.0\SharedServices.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\OSS\Shared\obj\Debug\net9.0\SharedServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OSS\Shared\obj\Debug\net9.0\SharedServices.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OSS\Shared\obj\Debug\net9.0\SharedServices.AssemblyInfo.cs
+C:\Users\HP\source\repos\OSS\Shared\obj\Debug\net9.0\SharedServices.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OSS\Shared\obj\Debug\net9.0\SharedSe.D9628FB2.Up2Date
+C:\Users\HP\source\repos\OSS\Shared\obj\Debug\net9.0\SharedServices.dll
+C:\Users\HP\source\repos\OSS\Shared\obj\Debug\net9.0\refint\SharedServices.dll
+C:\Users\HP\source\repos\OSS\Shared\obj\Debug\net9.0\SharedServices.pdb
+C:\Users\HP\source\repos\OSS\Shared\obj\Debug\net9.0\ref\SharedServices.dll
+C:\Users\HP\source\repos\OSS\Shared\obj\Debug\net9.0\SharedServices.sourcelink.json

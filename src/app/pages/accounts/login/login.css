@@ -1,0 +1,17 @@
+body {
+  background-color: #f4f7fc;
+}
+.login-box {
+  /* You may further customize here */
+}
+.login-title {
+  letter-spacing: 1px;
+}
+.btn-primary {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+.form-control:focus {
+  border-color: #0866c6;
+  box-shadow: 0 0 0 0.2rem rgba(8,102,198,0.15);
+}
